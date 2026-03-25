@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "シロクマ",
+  "base_artist": "スピッツ",
+  "createdAt": "2026-03-25T04:39:08.083069Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "シロクマ",
+      "artist": "SPITZ",
+      "has_synced": true,
+      "path": "select/01_シロクマ_SPITZ.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "シロクマ",
+      "artist": "スピッツ",
+      "has_synced": true,
+      "path": "select/02_シロクマ_スピッツ.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "シロクマ",
+      "artist": "スピッツ",
+      "has_synced": true,
+      "path": "select/03_シロクマ_スピッツ.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "シロクマ",
+      "artist": "スピッツ",
+      "has_synced": false,
+      "path": "select/pl_01_シロクマ_スピッツ.txt"
+    }
+  ]
+}
